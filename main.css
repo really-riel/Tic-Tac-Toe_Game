@@ -20,6 +20,7 @@ h1 {
   color: whitesmoke;
   margin-top: 50px;
   font-size: 4rem;
+  user-select: none;
 }
 h2 {
   color: white;
